@@ -134,7 +134,7 @@ section .title::after {
 
 .navbar .menu li a {
     display: block;
-    color: rgb(44, 201, 13);
+    color: black;
     font-size: 18px;
     font-weight: 500;
     margin-left: 25px;
@@ -191,7 +191,7 @@ section .title::after {
 /* home section styling */
 .home {
     display: flex;
-    background: url("/staticfiles/20210506_141150.jpg") no-repeat center;
+    background: url("/staticfiles/FB_IMG_1610445673621.jpg") no-repeat center;
     height: 100vh;
     color:black;
     min-height: 500px;
